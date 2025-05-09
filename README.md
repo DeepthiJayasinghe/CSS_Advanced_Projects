@@ -1,5 +1,6 @@
 # CSS_Advanced_Projects
 24 CSS Projects: Loading Animations, Progress Bars, Flashcards &amp; More! Tutorial by Freecodecamp.org(Youtube)
+https://youtu.be/TzuWIHGFKCQ?si=zYoXtLXO5sQ6UvGo
 
 ## ⭐️ Contents ⭐️
 
