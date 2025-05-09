@@ -5,7 +5,7 @@
  
 </p>
 
-<p align="center">
+<p align="left">
   <img src="images/3.png" width="300" />
   <img src="images/4.png" width="300" />
   <img src="images/5.png" width="300" />
