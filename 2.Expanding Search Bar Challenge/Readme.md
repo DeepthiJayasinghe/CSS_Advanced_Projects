@@ -10,7 +10,9 @@
   <img src="images/4.png" width="300" />
   <img src="images/5.png" width="300" />
 </p>
-
+<br>
+<br>
+<hr>
 **What I design**
 <p align="left">
   <img src="images/6.png" width="400" />
