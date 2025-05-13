@@ -1,7 +1,9 @@
 **Challenge-1**
-
-| ![Image1](images/1.png) | ![Image2](images/2.png) | ![Image3](images/3.png) |
-|-----------------------|-----------------------|-----------------------|
+<p align="left">
+  <img src="images/1.png" width="300" />
+  <img src="images/2.png" width="300" />
+  <img src="images/3.png" width="300" />
+</p>
 
 **What I design**
 
