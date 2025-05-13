@@ -1,0 +1,37 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --bg-word:#5134ff;
+}
+.container{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background: rgb(206, 159, 159);  
+}
+h1::after{
+    content: "";
+    animation: 6s swap infinite;
+    background: var(--bg-word);
+    padding: 10px;
+    color: white;
+    border-radius: 4px;
+    margin-left: 4px;
+}
+@keyframes swap{
+    0%{
+        content: "playing Guitar";
+    }
+    25%{
+        content: "playing Darbuka";
+    }
+    50%{
+        content: "Dogs";
+    }
+    100%{
+        content: "Coding";
+    }
+}
