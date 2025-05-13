@@ -6,7 +6,7 @@
 
 **What I design**
 
-<p align="left">
+<p align="center">
   <img src="images/3.png" width="400" />
  
 </p>
