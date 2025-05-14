@@ -1,0 +1,41 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background: rgb(22, 182, 43);
+}
+:root{
+    --blue:#006AA7;
+    --yellow:yellow;
+    --flag-height:150px;
+}
+.flag-sweden{
+    height: var(--flag-height);
+    width: calc(var(--flag-height)*8/5);
+    background: var(--blue);
+    display: flex;
+    margin: 2em auto;
+    position: relative;
+}
+.stripe{
+    background: var(--yellow);
+    height: calc(var(--flag-height)*1/5);
+}
+.stripe-yellow{
+    align-self: center;
+    width: 100%;
+    background: var(--yellow);
+    position: absolute;
+     height: calc(var(--flag-height) * 1 / 5); /* horizontal stripe height */
+    width: 100%;
+    top: calc(var(--flag-height) * 2 / 5); /* vertical center offset */
+    left: 0;
+}
+.stripe-yellow2{
+    background: var(--yellow);
+    width: calc(var(--flag-height)*1/5);
+    position: absolute;
+    height: 100%;
+    left: calc(var(--flag-height) * 2 / 5);
+    top: 0;
+   
+}
