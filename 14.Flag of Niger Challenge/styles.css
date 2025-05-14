@@ -1,0 +1,39 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background: rgb(122, 106, 187);
+}
+:root{
+    --orange:#E05206;
+    --white:#FFFFFF;
+    --green:#0DB02B;
+    --flag-height:200px;
+}
+.flag-nigar{
+    background: blue;
+    height: var(--flag-height);
+    width: calc(var(--flag-height)*7/6);
+    margin: 1em auto;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+.orange{
+    background: var(--orange);
+}
+.white{
+    background: var(--white);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.green{
+    background: var(--green);
+}
+.circle{
+    background: var(--orange);
+    height: calc(var(--flag-height)/3*.85);
+    width: calc(var(--flag-height)/3*.85);
+    border-radius: 50%;
+    position: absolute;
+}
