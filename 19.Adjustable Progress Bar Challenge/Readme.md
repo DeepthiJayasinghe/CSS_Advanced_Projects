@@ -1,7 +1,18 @@
 **Challenge-1**
+<p align="left">
+  <img src="images/1.png" width="300" />
+  <img src="images/2.png" width="300" />
+  <img src="images/3.png" width="300" />
+  <img src="images/4.png" width="300" />
+  <img src="images/5.png" width="300" />
+  <img src="images/6.png" width="300" />
+</p>
 
-| ![Image1](images/1.png) | ![Image2](images/2.png) | ![Image3](images/3.png) |
-| ![Image1](images/4.png) | ![Image2](images/5.png) | ![Image3](images/6.png) |
 
 **What I design**
-| ![Image1](images/7.png) | ![Image2](images/8.png) | ![Image3](images/9.png) |![Image3](images/10.png) |
+<p align="left">
+  <img src="images/7.png" width="300" />
+  <img src="images/8.png" width="300" />
+  <img src="images/9.png" width="300" />
+  <img src="images/10.png" width="300" />
+</p>
