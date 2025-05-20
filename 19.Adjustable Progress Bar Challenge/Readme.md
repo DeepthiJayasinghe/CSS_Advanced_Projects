@@ -11,8 +11,8 @@
 
 **What I design**
 <p align="left">
-  <img src="images/7.png" width="250" />
-  <img src="images/8.png" width="250" />
-  <img src="images/9.png" width="250" />
-  <img src="images/10.png" width="250" />
+  <img src="images/7.png" width="200" />
+  <img src="images/8.png" width="200" />
+  <img src="images/9.png" width="200" />
+  <img src="images/10.png" width="200" />
 </p>
